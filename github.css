@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 926px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: white; 
+    font-family: "Open Sans", sans-serif; 
+    margin: 0;
+}
+.header {
+    background: url(Gradient_Map_1.png) no-repeat;
+    background-size: cover; 
+    margin-bottom: 16px;
+}
+.headertitle {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 59px;
+    padding-top: 119px;
+    padding-bottom: 129px;
+    text-align: center; 
+    margin: 0;
+}
+.main {
+    color: #333333;
+}
+.title1 {
+    font-size: 30px;
+    line-height: 58.99px;
+    margin-bottom: 17px;
+}
+
+.paragraph {
+    font-size: 16px;
+    margin-bottom: 24px;
+    line-height: 24px;
+}
+.bold{
+    font-weight: bold;
+}
+.privacyframework {
+    color: #4183c4;
+    text-decoration: none;
+}
+.title2{
+    color: #325d72;
+    font-size: 24px;
+    line-height: 24px;
+    padding-bottom: 7px;
+    margin-bottom: 27px;
+    border-bottom: 2px solid #f5f5f5;
+}
+.third {
+    margin-bottom:65px;
+}
+
+.footer {
+    background-color:#f5f5f5;
+    border-top: 1px;
+    padding: 27px 0 77px 0;
+}
+
+.copyright {
+    color: #bebebe;
+    margin-right: 320px;
+    display: inline-block;
+    vertical-align: top;
+}
+.footer {
+    font-size: 14px;
+    line-height: 20px;
+}
+.link {
+    text-decoration: none;
+    margin-right: 22px;
+    color: #4183c4;
+    font-size: 14px; 
+} 
+.link .nomargin {
+    margin=0;
+}
+.nav {
+    display: inline-block;
+    vertical-align: top;
+}
