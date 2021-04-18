@@ -7,4 +7,4 @@ Featuring:
 - Centered Body
 - Simpe Footer
 
-https://alina-okhrimenko.github.io/git-hub/
+https://alina-okhrimenko.github.io/git-hub-simplest-layout/
